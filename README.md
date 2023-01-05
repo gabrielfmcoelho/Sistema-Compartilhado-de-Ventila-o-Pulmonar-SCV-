@@ -1,2 +1,2 @@
-# Sistema-Compartilhado-de-Ventila-o-Pulmonar-SCV-
+# Sistema Compartilhado de Ventilação Pulmonar - SCV
 ADAPTAÇÃO DE UM VENTILADOR MECÂNICO PARA A ASSISTÊNCIA SIMULTÂNEA DE MÚLTIPLOS PACIENTES INFECTADOS COM A COVID19
