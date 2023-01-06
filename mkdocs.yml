@@ -1,0 +1,6 @@
+site_name: SCV Docs
+site_url: ""
+nav:
+  - Introdução: index.md
+  - Funcionamento Geral: sobre.md
+theme: readthedocs
